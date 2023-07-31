@@ -1,0 +1,3 @@
+Ad:fatma,Telefon:1111111111
+Ad:elif,Telefon:222222222
+Ad:ayse,Telefon:3333333
